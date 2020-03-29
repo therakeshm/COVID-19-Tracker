@@ -97,3 +97,39 @@
     }
 
   }
+
+  @media only screen and (max-width: 768px) {
+    .Widget--2 {
+        text-align: center;
+
+        .Country--meta {
+            line-height: 1.6;
+
+            &:before {
+                content: "";
+                height: 0;
+                width: 0;
+                position: inherit;
+                background: none;
+                margin-top: inherit;
+                margin-left: inherit;
+                z-index: inherit;
+            }
+
+            ul {
+                padding-inline-start: 0px;
+
+                li {
+                  display: inline-block;
+
+                  &:first-child::before {
+                    content: '';
+                    padding-left: 0px;
+                    margin-right: 0px;
+                    vertical-align: top;
+                  }
+                }
+            }
+        }
+    }
+  }
