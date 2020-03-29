@@ -6,7 +6,7 @@ class CountryWidget extends React.Component {
   render() {
       const { countryName, totalCases, todayCases, activeCases, totalDeaths, todayDeaths, totalRecovered, critical } = this.props
     return (
-      <div className="Widget--2 text-left">
+      <div className="Widget--2">
         <h2>{countryName}</h2>
         <div className="Country--meta">
           <ul>
