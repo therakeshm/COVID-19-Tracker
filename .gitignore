@@ -67,3 +67,9 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+#ignored pages
+src/pages/default-api-fetch.js
+src/pages/blank-page.js
+
+#Ignore license
+LICENSE
