@@ -102,6 +102,18 @@
     .Widget--2 {
         text-align: center;
 
+        &:after {
+            content: "";
+            width: 50%;
+            height: 5px;
+            background: #02d587;
+            position: absolute;
+            right: 0;
+            top: inherit;
+            left: 0;
+            margin: auto;
+            bottom: 0;
+
         .Country--meta {
             line-height: 1.6;
 
