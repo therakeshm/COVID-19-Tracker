@@ -40,6 +40,7 @@ class IndexPage extends React.Component {
   render() {
     const { globalData, errorMessage } = this.state
     // if(errorMessage) return <div className="error-rk">{errorMessage}</div>
+
     return (
       <Layout>
         <SEO title="Global Outbreak" />
@@ -56,7 +57,7 @@ class IndexPage extends React.Component {
                 <Widget
                   styleName="warning"
                   align="center"
-                  value={globalData.cases} // .toLocaleString(navigator.language, { minimumFractionDigits: 0 })
+                  value={globalData.cases.toLocaleString('en-IN')} // .toLocaleString(navigator.language, { minimumFractionDigits: 0 })
                   label="Confirmed cases"
                 />
               </div>
@@ -64,7 +65,7 @@ class IndexPage extends React.Component {
                 <Widget
                   styleName="success"
                   align="center"
-                  value={globalData.recovered}
+                  value={globalData.recovered.toLocaleString('en-IN')}
                   label="Recovered"
                 />
               </div>
@@ -72,7 +73,7 @@ class IndexPage extends React.Component {
                 <Widget
                   styleName="danger"
                   align="center"
-                  value={globalData.deaths}
+                  value={globalData.deaths.toLocaleString('en-IN')}
                   label="Deaths"
                 />
               </div>
