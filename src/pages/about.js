@@ -22,7 +22,7 @@ class AboutPage extends React.Component {
                   <span role="img" aria-label="Computer">💻</span> Author: <a className="interactive" href="http://github.com/rkalways/" target="_blank" rel="noopener noreferrer">RaKesh Mandal</a>. Also I'm pretty active on <a className="interactive" href="https://twitter.com/rkalways_" target="_blank" rel="noopener noreferrer">Twitter</a> though. <span role="img" aria-label="LOL">😁</span>
                 </li>
                 <li>
-                <span role="img" aria-label="Graphics">🎨</span> Graphics by: <a className="interactive" href="https://twitter.com/roneetm" target="_blank" rel="noopener noreferrer">Roneet Michael</a>
+                <span role="img" aria-label="Graphics">🎨</span> Graphics by: <a className="interactive" href="https://github.com/roneetm" target="_blank" rel="noopener noreferrer">Roneet Michael</a>
                 </li>
                 <li><span role="img" aria-label="Pull request">🔄</span> If you'd like to contribute, submit a <strong>PR</strong> here <a className="interactive" href="https://github.com/rkalways/COVID-19-Tracker" target="_blank" rel="noopener noreferrer">COVID-19 Tracker</a></li>
               </ul>
