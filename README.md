@@ -79,7 +79,7 @@ I've learnt so many things in the way of making this application 📝 and ways t
   ### ***Contributors***
   - 💻 Author: [Rakesh Mandal](https://twitter.com/rkalways_)
 
-  - 🎨 Graphics by: [Roneet Michael](https://twitter.com/roneetm)
+  - 🎨 Graphics by: [Roneet Michael](https://github.com/roneetm)
 
 ------
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b1daa34f-120d-49f4-882c-210b17a54278/deploy-status)](https://app.netlify.com/sites/covid19-outbreak/deploys)
