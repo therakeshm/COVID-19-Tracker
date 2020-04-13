@@ -82,7 +82,7 @@ class allCountries extends React.Component {
                     activeCases={countryData.active.toLocaleString('en-IN')}
                     totalDeaths={countryData.deaths.toLocaleString('en-IN')}
                     todayDeaths={countryData.todayDeaths.toLocaleString('en-IN')}
-                    totalRecovered={countryData.recovered.toLocaleString('en-IN')}
+                    totalRecovered={countryData.recovered}
                     critical={countryData.critical.toLocaleString('en-IN')}
                   />
                 ))}
