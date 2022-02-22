@@ -10,14 +10,9 @@
 
 Woohoo!! 🎉🎉 Finally its shipped in the real-world. 📦
 
-Well, Upon learning & practicing **ReactJS & Gatsby** I have came up with an idea to build a real-world application & my minds popped out with this awesome idea! ⚡ Been building this since last 6-7 days. ⏱ Aaaand finally its here. **MY FIRST EVER OPENSOURCE CONTRIBUTION!** Self learning really paid off! 💯
+Well, Upon learning & practicing **ReactJS & Gatsby** I have came up with an idea to build a real-world application & my minds popped out with this awesome idea! ⚡ Been building this since last 6-7 days. ⏱ Aaaand finally its here. **MY FIRST EVER OPENSOURCE CONTRIBUTION!** 💯
 
-I've learnt so many things in the way of making this application 📝 and ways to do the same work in different ways. Specially from [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw) 🥇 is truly an inspiration to me. Apart from that I wanna thank to these mentors as well for being there to teach people in a effective way 💯
-
-1. 🔥 [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-2. 🔥 [Scott from LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
-3. 🔥 [Dev' ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
-4. 🔥 [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog)
+I've learnt so many things in the way of making this application 📝 and ways to do the same work in different ways. 
 
 ----------------------------------------------------------
 
